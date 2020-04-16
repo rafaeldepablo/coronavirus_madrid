@@ -1,7 +1,7 @@
 # coronavirus_madrid
 ## Evolución de la incidencia del corona virus en la Comunidad de Madrid
 
-![Visualizacion](https://github.com/rafaeldepablo/coronavirus_madrid/images/map.png)
+![Visualizacion](https://rafaeldepablo.github.io/coronavirus_madrid/images/map.png)
 
 Sin duda, durante esta crisis la Comunidad de Madrid ha realizado un especial esfuerzo de transparencia poniendo a disposición del ciudadano toda la información disponible, así como las ayudas y las guías de actuación necesarias. Ya que frenar el virus es responsabilidad de todos, y sin información y sin una activa y real concienciación de todos, será mucho más difícil lograrlo.
 
