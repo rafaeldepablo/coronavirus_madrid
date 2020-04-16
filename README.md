@@ -12,10 +12,10 @@ Vivimos en un mundo abierto no sólo en lo relativo a los datos sino también al
 La visualización diseñada facilita la compresión de los datos combinando múltiples dimensiones:
 
 
-1.El color de la zona de salud nos indica el número total de casos detectados en el área, y mediante el grosor del contorno se indica la tasa máxima de contagio detectada en la zona desde el comienzo de la crisis y la fecha de publicación de los datos.
+- 1.El color de la zona de salud nos indica el número total de casos detectados en el área, y mediante el grosor del contorno se indica la tasa máxima de contagio detectada en la zona desde el comienzo de la crisis y la fecha de publicación de los datos.
 
-2. Utilizando como referencia el punto central de la zona se muestran los datos correspondientes a los últimos 14 días, el tamaño de la zona indica el volumen de nuevos casos confirmados, y el color representa la evolución en el número de casos confirmados respecto al día anterior.
+- 2. Utilizando como referencia el punto central de la zona se muestran los datos correspondientes a los últimos 14 días, el tamaño de la zona indica el volumen de nuevos casos confirmados, y el color representa la evolución en el número de casos confirmados respecto al día anterior.
 
-3. Por último, podemos navegar en el tiempo filtrando los días que queremos analizar o, como en una película, ver la evolución a lo largo del tiempo.
+- 3. Por último, podemos navegar en el tiempo filtrando los días que queremos analizar o, como en una película, ver la evolución a lo largo del tiempo.
 
 Iré subiendo los mapas actualizados y recuerda #quedateencasa
